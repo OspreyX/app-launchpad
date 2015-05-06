@@ -1,6 +1,6 @@
 {
   "title": "App Launchpad",
-  "trayIcon": "https://developer.openf.in/download/openfin.png",
+  "trayIcon": "http://openfin.github.io/app-launchpad/launch-icon.ico",
   "iconWidth":"100",
   "iconHeight":"100",
   "applications": [
