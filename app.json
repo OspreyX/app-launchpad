@@ -17,8 +17,8 @@
   },
   "shortcut": {
     "company": "OpenFin",
-    "description": "openfin-app-launcher",
+    "description": "openfin-app-launchpad",
     "icon": "http://openfin.github.io/app-launchpad/launch-icon.ico",
-    "name": "app-launcher"
+    "name": "app-launchpad"
   }
 }
